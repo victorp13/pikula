@@ -5,18 +5,18 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Blowfish"
+title = "Victor Pikula"
 # logo = "img/logo.png"
-description = "My awesome website"
+description = "my personal website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Your name here"
-  image = "img/blowfish_logo.png"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  name = "Victor Pikula"
+  image = "/img/victor_pikula_face_2022.jpg"
+  headline = "Hi there 👋"
+  bio = "A little bit about me"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
